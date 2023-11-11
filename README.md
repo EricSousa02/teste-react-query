@@ -11,7 +11,7 @@ Esta é uma simples aplicação de teste de um ToDo List desenvolvida com React 
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/todo-list-react-query.git
+   git clone https://github.com/EricSousa02/teste-react-query.git
 
 
 2. Instale as dependências usando o Yarn:
